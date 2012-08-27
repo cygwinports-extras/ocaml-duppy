@@ -1,4 +1,0 @@
-category: OCaml
-requires: ocaml-base ocaml-pcre
-sdesc: "OCaml advanced scheduler library"
-ldesc: "ocaml-duppy is an advanced scheduler for Ocaml programmers."

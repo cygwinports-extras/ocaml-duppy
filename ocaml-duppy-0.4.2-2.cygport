@@ -1,6 +1,8 @@
 inherit ocaml
 
-DESCRIPTION="OCaml advanced scheduler library"
+CATEGORY="OCaml"
+SUMMARY="OCaml advanced scheduler library"
+DESCRIPTION="ocaml-duppy is an advanced scheduler for Ocaml programmers."
 HOMEPAGE="http://savonet.sourceforge.net/"
 SRC_URI="mirror://sourceforge/savonet/${P}.tar.gz"
 
