@@ -1,8 +1,8 @@
 inherit ocaml
 
 NAME="ocaml-duppy"
-VERSION=0.4.2
-RELEASE=2
+VERSION=0.5.1
+RELEASE=1
 CATEGORY="Libs"
 SUMMARY="OCaml advanced scheduler library"
 DESCRIPTION="ocaml-duppy is an advanced scheduler for Ocaml programmers."
