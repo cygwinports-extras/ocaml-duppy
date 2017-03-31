@@ -1,13 +1,13 @@
 inherit ocaml
 
 NAME="ocaml-duppy"
-VERSION=0.5.1
+VERSION=0.5.2
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="OCaml advanced scheduler library"
 DESCRIPTION="ocaml-duppy is an advanced scheduler for Ocaml programmers."
-HOMEPAGE="http://savonet.sourceforge.net/"
-SRC_URI="mirror://sourceforge/savonet/${NAME}-${VERSION}.tar.gz"
+HOMEPAGE="http://liquidsoap.fm/"
+SRC_URI="https://github.com/savonet/${NAME}/releases/download/${VERSION}/${NAME}-${VERSION}.tar.gz"
 
 src_compile() {
 	lndirs
